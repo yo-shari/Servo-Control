@@ -1,0 +1,4 @@
+#ReadMe
+There are a lot of files and not all of them are used but I don't know which ones are unnecessary so they are all there.
+In the serial window to send angles "( servo 1 angle servo 2 angle)"
+ex) (0b0090)
